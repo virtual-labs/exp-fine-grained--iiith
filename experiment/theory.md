@@ -8,7 +8,7 @@ For Example , possessive pronouns are likely to be followed by a noun, personal 
 
 Therefore, each of the traditional part of speech can be made more fine-grained so that can convey additional information. Such a tagset (adapted from the Penn tagset) is shown below:
 
-<p style="text-align:center">**PENN tagset**</p>
+<p style="text-align:center; font-size:12px"><b>PENN tagset</b></p>
 
 |POS Tag|Deacription|Example|
 |---|---|---|
