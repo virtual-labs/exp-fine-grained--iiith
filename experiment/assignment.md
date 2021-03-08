@@ -5,8 +5,11 @@ Give fine-grained POS tag for the words in following sentences:
 3. We should avoid travelling in the night.
 4. Ram ate an apple which was on the table.
 5. The dog is sitting just at the front side of the gate.
+
+
 <br/>
 <br/>
+
 
 1. नाम क्या है तुम्हारा
 2. राम जैसा अच्छा गायक मैंने आज तक नहीं देखा
