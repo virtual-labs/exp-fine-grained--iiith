@@ -53,6 +53,7 @@ For eg :<br/>
 A/DT child/NN in/IN the/DT play/NN liked/VBD to/TO place/VB the/DT green/JJ bill/NN on/IN the/DT red/JJ flower/NN and/CC used/VBD to/TO wonder/VB which/WDT of/IN them/PRP was/VBD beautiful/JJ
 
 
+<p style="text-align:center; font-size:24px"><b>A fine grained POS tagset for Indian languages</b></p>
 
 
 |Sl. no.|Category|Tag name|Example|
