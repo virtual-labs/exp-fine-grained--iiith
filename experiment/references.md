@@ -1,1 +1,7 @@
-### Link your references in here
+- http://www.comp.leeds.ac.uk/ccalas/tagsets/upenn.html
+  The University of Pennsylvania (Penn) Treebank Tag-set
+
+<br/>
+
+- http://ltrc.iiit.ac.in/MachineTrans/publications/technicalReports/tr031/posguidelines.pdf
+  AnnCorra : Guidelines For POS And Chunk Annotation For Indian Languages - Akshar Bharati, Dipti Misra Sharma, Lakshmi Bai, Rajeev Sangal
