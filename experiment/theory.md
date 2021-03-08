@@ -8,7 +8,7 @@ For Example , possessive pronouns are likely to be followed by a noun, personal 
 
 Therefore, each of the traditional part of speech can be made more fine-grained so that can convey additional information. Such a tagset (adapted from the Penn tagset) is shown below:
 
-<p style="text-align:center; font-size:12px"><b>PENN tagset</b></p>
+<p style="text-align:center; font-size:24px"><b>PENN tagset</b></p>
 
 |POS Tag|Deacription|Example|
 |---|---|---|
@@ -48,8 +48,8 @@ Therefore, each of the traditional part of speech can be made more fine-grained 
 
 
 
-For eg :
-**A child in the play liked to place the green bill on the red flower, and used to wonder which of them was beautiful.**
+For eg :<br/>
+**A child in the play liked to place the green bill on the red flower, and used to wonder which of them was beautiful.**<br/>
 A/DT child/NN in/IN the/DT play/NN liked/VBD to/TO place/VB the/DT green/JJ bill/NN on/IN the/DT red/JJ flower/NN and/CC used/VBD to/TO wonder/VB which/WDT of/IN them/PRP was/VBD beautiful/JJ
 
 
