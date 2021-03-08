@@ -55,8 +55,31 @@ A/DT child/NN in/IN the/DT play/NN liked/VBD to/TO place/VB the/DT green/JJ bill
 
 
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|Sl. no.|Category|Tag name|Example|
+|---|---|---|---|
+|1.1|Common Noun|NN |किताब, कुर्सी|
+|1.2|Noun denoting spatial and temporal expressions|NST|ऊपर, सामने|
+|2. |Proper Noun|NNP|राम, राधा|
+|3.1|Pronoun|PRP|वह|
+|3.2|Demonstrative|DEM|इस किताब, वह लड़का|
+|4  |Verb Main|VM|करूँगा, खाते|
+|5  |Verb Aux|VAUX|किया था, खाते हुए|
+|6  |Adjective|JJ|सुन्दर, छोटा|
+|7  |Adverb|RB|जल्दी, धीरे (*Only manner adverb)|
+|8  |Post position|PSP|ने, के लिए|
+|9  |Particles|RP|भी ही, जी|
+|10 |Conjuncts|CC|और, या|
+|11 |Question Words|WQ|क्या, कौन|
+|12.1|Quantifiers|QF|बहुत, थोडा, कम|
+|12.2|Cardinal|QC|तीन|
+|12.3|Ordinal|QO|तीसरा|
+|13 |Intensifier|INTF|बहुतअच्छा|
+|14 |Interjection|INJ|अरे!, वाह!|
+|15 |Negation|NEG|नहीं|
+|16 |Compounds|C |स्कूल शिक्षा|
+
+
+For example:<br/>
+**सभी बच्चे बाहर से आये हुए अतिथियों का स्वागत करेंगे।**<br/>
+सभी/QF बच्चे/NN बाहर/NST से/PSP आये/VM हुए/VAUX अतिथियों/NN का/PSP स्वागत/NN करेंगे/VM
+
